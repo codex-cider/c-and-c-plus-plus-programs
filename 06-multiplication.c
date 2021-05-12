@@ -2,31 +2,27 @@
 
 void main()
 {
-
-    int a, b, result;
-    a = 50;
-    b = 30;
-    result = a * b;
+    int firstNumber, secondNuber, result;
+    firstNumber = 10;
+    secondNuber = 30;
+    result = firstNumber * secondNuber;
     printf("Result is %d", result);
 
     printf("\n");
 
-    // Square of x
-    int x, square;
-    x = 3;
-    square = x * x;
-    printf("Square of %d is %d", x, square);
+    int number;
+
+    // Square of any number
+    // X ki power 2 = x * x;
+    number = 5;
+    result = number * number;
+    printf("Square of %d is %d", number, result);
 
     printf("\n");
 
-    int y, cube;
-    y = 3;
-    cube = y * y * y;
-    printf("Cube of %d is %d", y, square);
-
-    printf("\n");
-    // calculate Power of 4
-    x = 5;
-    result = x * x * x * x;
-    printf("Power 4 of %d is %d", x, result);
+    // Cube of any number
+    // X ki power 3 = x * x * x;
+    number = 2;
+    result = number * number * number;
+    printf("Cube of %d is %d", number, result);
 }

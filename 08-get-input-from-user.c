@@ -1,3 +1,5 @@
+// Video URL: https://www.youtube.com/watch?v=Qz3ZOjc8YKw
+
 // Get Input From User
 
 #include <stdio.h>

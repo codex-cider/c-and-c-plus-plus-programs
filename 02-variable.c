@@ -1,3 +1,5 @@
+// Video URL: https://www.youtube.com/watch?v=7ny-5EDQwd0
+
 #include <stdio.h>
 
 void main()

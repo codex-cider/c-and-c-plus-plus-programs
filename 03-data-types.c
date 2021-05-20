@@ -25,6 +25,8 @@ Boolean -- True/False ( 0, 1 )
 
 */
 
+// Video URL: https://www.youtube.com/watch?v=2cv0lnN8k9k
+
 #include <stdio.h>
 
 void main()

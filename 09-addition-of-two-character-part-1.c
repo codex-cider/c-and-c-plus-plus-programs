@@ -10,7 +10,7 @@ void main()
     int convervalue;
     convervalue = a;
 
-    printf("Value is %d\n", a);
+    printf("Value is %d\n", a); // ASCII VALUE
     printf("Convervalue is %d", convervalue);
 
     // char -> int tycasting

@@ -1,6 +1,7 @@
 {
     "files.exclude": {
         "*.exe": true,
+        "*.cWithExt": true,
         "tempCodeRunnerFile.c": true,
     }
 }

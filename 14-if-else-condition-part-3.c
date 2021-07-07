@@ -30,15 +30,15 @@ void main()
 
     if (percentage >= 60)
     {
-        printf("First devision");
+        printf("First division");
     }
     else if (percentage >= 50)
     {
-        printf("Second devision");
+        printf("Second division");
     }
     else if (percentage >= 33)
     {
-        printf("Third devision");
+        printf("Third division");
     }
     else
     {

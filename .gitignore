@@ -2,3 +2,4 @@
 *.exe
 *.cWithExt
 tempCodeRunnerFile.c
+*.DS_Store
